@@ -1,4 +1,4 @@
-rconsolename("GHAST OWNS YOU ; ghast#0001")
+rconsolename("lurpinK ; bbN ontop")
 rconsoleprint("@@CYAN@@")
 
 if not game:IsLoaded() then
